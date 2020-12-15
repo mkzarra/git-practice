@@ -5,6 +5,10 @@ app.get('/', (req, res) => {
 	res.send('hello from root!!!')
 })
 
+app.get('/things', (req, res) => {
+	res.send('have some things!!!')
+})
+
 app.get('/stuff', (req, res) => {
 	res.send('have some stuff!');
 })
