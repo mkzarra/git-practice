@@ -32,7 +32,6 @@ personA's turn
   - change server.js
   - commit and push to feature branch
   - PR template & create PR
-
 MEANWHILE... personB does exact same steps
 merge in personA's PR first
 resolve conflict
