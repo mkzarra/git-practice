@@ -1,6 +1,6 @@
 # git-practice
 
-
+```
 personA starts the project
   - can be on main?
   - create the repo on gh
@@ -45,3 +45,4 @@ resolve conflict
   - commit
   - push to feature branch
   - PR can now be merged
+ ```
